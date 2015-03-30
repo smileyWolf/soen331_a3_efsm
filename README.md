@@ -7,3 +7,13 @@ Students
 ========
 Dan Magariu  - 9217479
 Calin Sticea - 6339352
+
+Workload and Commits
+====================
+The assignment's work was done in 3 parts where both students (Dan Magariu and Calin Sticea) participated equaly:
+
+1. The diagrams (PNG images)
+2. Specifications (PDF files)
+3. Prolog (PL files)
+ 3.1. Facts
+ 3.2. Rules
